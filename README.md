@@ -27,23 +27,17 @@ Link to getEngagements.py:  https://github.com/Dkusner/Challenge1/blob/master/so
 
 ### 3.2	Python Algorithm to Retrieve Data
 
-a)	'getEngagements.py' retrieves the engagement data from the url.
-
-b)	 It translates it into a Json file, where a data analysis is conducted.
-
-c)	The relevant fields are organized and sorted in a sequential order.
-
-d)	The script groups the data and outputs a CSV file for use to import into MySQL.
-
-e)	Within the python console, run command: runfile('~getEngagements.py').
-
-f)  Output: Once the command is executed, a csv file "getEngagements_output.csv"  is created in the home directory.
+* 'getEngagements.py' retrieves the engagement data from the url via API call.
+* Response from API call is translated into Json file so that analysis can be conducted.
+* The script extracts the relevant fields and outputs a CSV file for use to import into MySQL.
+* To run the python code, run command: runfile('~getEngagements.py') from python console.
+* Output: Once the command is executed, a csv file "getEngagements_output.csv"  is created in the home directory.
 
 Link to getEngagements_output.csv:  https://github.com/Dkusner/Challenge1/blob/master/output/getEngagements_output.csv
 
 ## 4.	Importing and Reading the Data in MySQL
 
-*	The Data Import Wizard in MySQL Workbench was used to import the data from 'getEngatements_output.csv' (all defaults used).
+*	The Data Import Wizard in MySQL Workbench was used to import the data from 'getEngatements_output.csv' (python output file).  All defaults are used during the import).
 * The import wizard produced the following schema:
 * Once the file was created, it contained the following schema:
 * A SQL query 'typeDailyCount.sql' pulls the Engagements per Day and groups them by type. The count of each type per day is displayed.
