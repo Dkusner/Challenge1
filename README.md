@@ -51,4 +51,5 @@ Link to getEngagements_output.csv:  https://github.com/Dkusner/Challenge1/blob/m
 * THe output from the SQL query shows the count of each type per day.
 
 Link to SQL query typeDailyCount.sql:  https://github.com/Dkusner/Challenge1/blob/master/source/typeDailyCount.sql
+
 Link to output from SQL query:  https://github.com/Dkusner/Challenge1/blob/master/output/type_daily_count.csv
