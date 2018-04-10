@@ -8,7 +8,7 @@ This assignment was built using the following OS and SW tools:
 * Python 3.6.3 64bits 
 * MySQL 6.3.10 64bits
 *	IOS – High Sierra 10.13.4
-*	Date from hubspot  -“Engagements Overview”  
+*	Data from hubspot  -“Engagements Overview”  
 Link to Engagements Overview:  https://developers.hubspot.com/docs/methods/engagements/engagements-overview
 
 
