@@ -22,9 +22,9 @@ The libraries imported are:
 * time
 * os	
 
-## 3.2	Python Algorithm to Retrieve Data
+### 3.2	Python Algorithm to Retrieve Data
 
-a)	'getEngagements.py' retrieves the engagement data from the url,
+a)	'getEngagements.py' retrieves the engagement data from the url.
 
 b)	 It translates it into a Json file, where a data analysis is conducted.
 
@@ -34,7 +34,7 @@ d)	The script groups the data and outputs a CSV file for use to import into MySQ
 
 e)	Within the python console, run command: runfile('~getEngagements.py').
 
-d)  Output: Once the command  is executed, a csv file "getEngagements_output.csv"  is created in the home directory.
+f)  Output: Once the command is executed, a csv file "getEngagements_output.csv"  is created in the home directory.
 
 
 ## 4.	Reading Data
