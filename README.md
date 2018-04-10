@@ -8,12 +8,12 @@ This assignment was built using the following OS and SW tools:
 * Python 3.6.3 64bits 
 * MySQL 6.3.10 64bits
 *	IOS – High Sierra 10.13.4
-*	Date from hubspot  -“Engagements overview”
+*	Date from hubspot  -“Engagements overview”  
 
 ## 3.	Extracting Data:
 
 ### 3.1	Pulling Data from Hubspot. 
-The file 'getEngagements.py' combines the API and a Python script to extract the engagement data from the url.
+The file 'getEngagements.py' combines the API call and a Python script to extract the engagement data and convert to csv output.
 The libraries imported are:
 * urllib
 * urllib.request
@@ -22,7 +22,7 @@ The libraries imported are:
 * time
 * os	
 
-## 3.2	Algorithm
+## 3.2	Python Algorithm to Retrieve Data
 
 a)	'getEngagements.py' retrieves the engagement data from the url,
 
@@ -30,9 +30,9 @@ b)	 It translates it into a Json file, where a data analysis is conducted.
 
 c)	The relevant fields are organized and sorted in a sequential order.
 
-d)	The script the groups the data and outputs a CSV file which contains a readable table.
+d)	The script groups the data and outputs a CSV file for use to import into MySQL.
 
-e)	Within the in python console, run command: runfile('~getEngagements.py'). 
+e)	Within the python console, run command: runfile('~getEngagements.py').
 
 d)  Output: Once the command  is executed, a csv file "getEngagements_output.csv"  is created in the home directory.
 
