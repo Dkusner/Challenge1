@@ -34,7 +34,7 @@ e)	Within the in python console, run command: xxxxxxxxxx. Once the command  is e
 
 ## 4.	Reading Data
 
-•	A SQL Query (filename)   pulls the Engagements per Day broken and groups them by type. The count of each type per day is displayed .
-•	Schema is filenamexxxxxx
-•	The SQL query yields the results shown in file xxxxx.
+*	A SQL Query (filename)   pulls the Engagements per Day broken and groups them by type. The count of each type per day is displayed .
+*	Schema is filenamexxxxxx
+*	The SQL query yields the results shown in file xxxxx.
 
