@@ -3,6 +3,8 @@
 ## 1.	Introduction
 This document addresses the Alooma SE challenge.  It provides the steps performed and the results yielded as an outcome of the exercise.
 
+Link to Alooma SE Challenge doc:  
+
 ## 2.	Software Versions and Tools
 This assignment was built using the following OS and SW tools:
 * Python 3.6.3 64bits
