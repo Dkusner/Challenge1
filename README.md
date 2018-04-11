@@ -56,7 +56,7 @@ Link to SQL query typeDailyCount.sql:  https://github.com/Dkusner/Challenge1/blo
 
 Link to output from SQL query:  https://github.com/Dkusner/Challenge1/blob/master/output/type_daily_count.csv
 
-## 5.	14-Day Moving Average on Daily Counts Per Engagement Type (Bonus)
+## 5.	(Bonus) 14-Day Moving Average on Daily Counts Per Engagement Type
 
 * The SQL file 'Eng14DayAvg.sql' queries the engagements per day and groups them by type - the performs a join from the source table using the avg() sql function to generate a 14 day average based on the date difference.
 * THe output from the SQL query shows the average for that engagement type for the prior 14 days.
