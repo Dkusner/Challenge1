@@ -3,7 +3,7 @@
 ## 1.	Introduction
 This document addresses the Alooma SE challenge.  It provides the steps performed and the results yielded as an outcome of the exercise.
 
-Link to Alooma SE Challenge doc:  
+Link to Alooma SE Challenge doc:  https://github.com/Dkusner/Challenge1/blob/master/request/Alooma%20-%20Solutions%20Engineer%20Assessment.md
 
 ## 2.	Software Versions and Tools
 This assignment was built using the following OS and SW tools:
