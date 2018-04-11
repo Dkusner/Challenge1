@@ -55,3 +55,12 @@ Link to getEngagements_output.csv:  https://github.com/Dkusner/Challenge1/blob/m
 Link to SQL query typeDailyCount.sql:  https://github.com/Dkusner/Challenge1/blob/master/source/typeDailyCount.sql
 
 Link to output from SQL query:  https://github.com/Dkusner/Challenge1/blob/master/output/type_daily_count.csv
+
+## 5.	14-Day Moving Average on Daily Counts Per Engagement Type (Bonus)
+
+* The SQL file 'Eng14DayAvg.sql' queries the engagements per day and groups them by type - the performs a join from the source table using the avg() sql function to generate a 14 day average based on the date difference.
+* THe output from the SQL query shows the average for that engagement type for the prior 14 days.
+
+Link to SQL query Eng14DayAvg.sql:  https://github.com/Dkusner/Challenge1/blob/master/source/Eng14DayAvg.sql
+
+Link to csv output from SQL query:  https://github.com/Dkusner/Challenge1/blob/master/output/eng_avg14day.csv
